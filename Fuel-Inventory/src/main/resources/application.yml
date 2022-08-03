@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://pasan:pasan@fuel-app.ihkjz.mongodb.net/?retryWrites=true&w=majority
+      database: Fuel-App
+server:
+  port: 8082
